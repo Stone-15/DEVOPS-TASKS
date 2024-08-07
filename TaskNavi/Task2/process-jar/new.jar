@@ -1,0 +1,6 @@
+META-INF/ 
+-MANIFEST.MF
+.com/
+-example/
+Its bit confusing "Execute the jar file as LinuxUser not root user"
+I've created a new user switched the user and executed the file.
