@@ -1,0 +1,3 @@
+This is a dummy file which was created in the process of doing my task
+This process of parsing is a way of dissecting a file
+So lets try parsing. Thanks!
