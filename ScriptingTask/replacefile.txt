@@ -1,0 +1,8 @@
+Hi, this is a sample text file
+to check whether the word
+give is replaced with learning
+only after the 5th line.
+This again is some random text
+to check and give the welcome
+output of learning will welcome
+others to learn..
